@@ -1,4 +1,5 @@
 # CV_HTML
 My CV by HTML
-![image](https://user-images.githubusercontent.com/122313622/211895469-2d2344a4-e3de-4cf9-8c8e-61c9547e4d90.png)
+![2023-01-11_22-05-21](https://user-images.githubusercontent.com/122313622/211896349-3d3ea888-8e96-44ff-b198-950f3ac8f5cc.png)
+
 
